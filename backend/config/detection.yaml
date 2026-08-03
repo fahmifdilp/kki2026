@@ -1,0 +1,17 @@
+red_hsv_1:
+  lower: [0, 110, 80]
+  upper: [10, 255, 255]
+red_hsv_2:
+  lower: [170, 110, 80]
+  upper: [179, 255, 255]
+green_hsv:
+  lower: [35, 70, 60]
+  upper: [90, 255, 255]
+minimum_area: 350
+minimum_circularity: 0.62
+minimum_radius: 10
+roi: {x: 0.0, y: 0.08, width: 1.0, height: 0.9}
+smoothing_factor: 0.35
+detection_enabled:
+  main: true
+  underwater: false

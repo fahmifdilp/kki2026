@@ -1,0 +1,6 @@
+{
+  "routes": [
+    {"id":"A","name":"Rute A","line_color":"#853953","waypoints":[{"id":1,"x":12,"y":78,"type":"start"},{"id":2,"x":27,"y":52,"type":"gate"},{"id":3,"x":46,"y":28,"type":"buoy"},{"id":4,"x":68,"y":47,"type":"gate"},{"id":5,"x":88,"y":18,"type":"finish"}]},
+    {"id":"B","name":"Rute B","line_color":"#612D53","waypoints":[{"id":1,"x":12,"y":78,"type":"start"},{"id":2,"x":31,"y":67,"type":"gate"},{"id":3,"x":51,"y":79,"type":"buoy"},{"id":4,"x":69,"y":54,"type":"gate"},{"id":5,"x":88,"y":18,"type":"finish"}]}
+  ]
+}
